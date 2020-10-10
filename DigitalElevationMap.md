@@ -48,5 +48,14 @@ def plot_parameter(coord_file, elevation):
         plt.show()
 
 plot_parameter(DEM_FILE,DEM)
+```
+
+### Execute on the terminal the following command
+```python
+$ python dem.py
+```
+
+### Expected result
+![](dem.png)
 
 
