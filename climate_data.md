@@ -58,3 +58,10 @@ plot_parameter('tie_geo_coordinates.nc','tie_meteo.nc',TOZON)
 #plot_parameter('tie_geo_coordinates.nc','tie_meteo.nc',HUM)
 #plot_parameter('tie_geo_coordinates.nc','tie_meteo.nc',TCWV)
 #plot_parameter('tie_geo_coordinates.nc','tie_meteo.nc',SEA_PRESSURE)
+```
+
+### Expected result
+![test image size](ozone.png)
+![test image size](water_vapour.png)
+![test image size](relative_humidity.png)
+![test image size](sea_level.png)
