@@ -56,6 +56,6 @@ $ python dem.py
 ```
 
 ### Expected result
-![](dem.png)
+![test image size](dem.png){:height="10%" width="10%"}
 
 
