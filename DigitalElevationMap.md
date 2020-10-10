@@ -48,3 +48,5 @@ def plot_parameter(coord_file, elevation):
         plt.show()
 
 plot_parameter(DEM_FILE,DEM)
+
+
