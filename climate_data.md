@@ -61,7 +61,8 @@ plot_parameter('tie_geo_coordinates.nc','tie_meteo.nc',TOZON)
 ```
 
 ### Expected result
-![test image size](ozone.png)
-![test image size](water_vapour.png)
-![test image size](relative_humidity.png)
-![test image size](sea_level.png)
+![test image size](img/ozone.png)
+![test image size](img/water_vapour.png)
+![test image size](img/relative_humidity.png)
+![test image size](img/sea_level.png)
+
