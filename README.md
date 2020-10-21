@@ -17,3 +17,10 @@ Data contains several parameters mapped into a grid with several layers.
 - Sensor coverage estimation
 - Combining with other data sources for learning and prediction
 - Simulation of complex systems (flooding, dynamic evolution, cellular automata, etc.)
+
+## Steps for processing and plotting
+
+- Connect to www.peps.cnes.fr 
+- Make a research based on location
+- Download the relevant products 
+- Apply this python code to extract data and plot
