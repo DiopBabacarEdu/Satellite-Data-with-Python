@@ -1,5 +1,19 @@
-# Satellite-Data-with-Python
+# Processing Satellite Data using Python
+## Basics
 
 This git provides some scripts to preprocess satelite Copernicus 
 data extracted from the Sentinel Hub (https://peps.cnes.fr/rocket/).
 The initial format of the data ius in NetCDF, a common format for climate and geo related data.
+Data contains several parameters mapped into a grid with several layers.
+
+## Parameters
+- DEM (Digital Elevation Map)
+- Climate parameters (Temperature, Humidity, Ozone, etc)
+- Technical parameters (Orbit, colors, optical informations, etc.)
+
+## Possible applications
+- Radio planning in wide areas
+- Daily mapping of climate parameters 
+- Sensor coverage estimation
+- Combining with other data sources for learning and prediction
+- Simulation of complex systems (flooding, dynamic evolution, cellular automata, etc.)
